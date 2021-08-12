@@ -1,0 +1,42 @@
+
+ RAJU : identifier
+ MAIN : identifier
+(
+) 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+,
+ temp : identifier
+;
+ a : identifier 
+10: number
+;
+ b : identifier 
+20: number
+; 
+ if : keyword 
+ a : identifier
+ relational operator <b
+ b : identifier
+ printf : identifier
+(
+"
+ a : identifier
+ is : identifier
+ less : identifier
+ than : identifier
+ b : identifier
+"
+)
+; 
+ else : keyword 
+ printf : identifier
+(
+"
+ b : identifier
+ is : identifier
+ greater : identifier
+"
+)

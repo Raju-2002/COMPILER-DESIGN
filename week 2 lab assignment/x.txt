@@ -1,0 +1,9 @@
+RAJU MAIN()
+int a,b,temp;
+a=10;
+b=20;
+if a<b
+printf("a is less than b");
+else
+printf("b is greater")
+/*raju*/

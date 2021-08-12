@@ -1,0 +1,6 @@
+Symbol Table: 
+RAJU
+MAIN
+int
+a
+b
